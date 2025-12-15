@@ -62,9 +62,12 @@ Spring Boot REST service for managing movies, users, and ratings.
 
 ## Education
 
-**Taras Shevchenko National University of Kyiv**
-Bachelor’s Degree in Biophysics
-Department of Biophysics and Medical Informatics
+**Taras Shevchenko National University of Kyiv**  
+Bachelor’s Degree in Biophysics  
+Department of Biophysics and Medical Informatics  
+
+**Yandex Practicum**  
+Java Backend Developer – Project-based training  
 
 ---
 
