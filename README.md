@@ -1,66 +1,70 @@
-# Alyona Nazarenko
+# Alyona Nazarenko  
+👩‍💻 **Java Backend Developer**
 
-Java Backend Developer in training with a strong academic background in biophysics and medical informatics. Focused on building backend services with modern Java and Spring Boot, clean architecture, and testable business logic.
+![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-brightgreen?logo=springboot)
+![REST](https://img.shields.io/badge/REST-API-lightgrey)
+![Maven](https://img.shields.io/badge/Maven-build-orange?logo=apachemaven)
+![JUnit5](https://img.shields.io/badge/JUnit-5-success)
 
----
-
-## Tech Stack
-
-* **Java 21**
-* **Spring Boot 3**
-* REST API
-* Maven
-* Lombok
-* Bean Validation
-* JUnit 5
-* Git / GitHub
+Backend-focused Java developer with a strong academic background in biophysics and medical informatics.  
+Experienced in building clean, testable backend applications using modern Java and Spring Boot.  
+Currently preparing for backend internship roles and real-world product development.
 
 ---
 
-## Featured Projects
+## 🧰 Tech Stack
 
-### **TaskFlow**
-
-Java task management application implementing core business logic and task lifecycle management.
-
-**Key points:**
-
-* Core Java and OOP principles
-* Task lifecycle and status management
-* Clean separation of responsibilities
-* Completed backend logic project
+- **Java 21**
+- **Spring Boot 3**
+- RESTful APIs
+- Maven
+- Lombok
+- Bean Validation
+- JUnit 5
+- Git / GitHub
 
 ---
 
-### **Catsgram**
+## 📌 Projects
 
-Spring Boot REST backend for managing posts.
+### **TaskFlow** — Task Management System *(completed)*
+Java-based backend application implementing task lifecycle and business logic.
 
-**Key points:**
+- Core Java and OOP principles  
+- Task lifecycle and status management  
+- Clean separation of responsibilities  
+- File-based persistence and HTTP API  
 
-* Spring Boot 3 and Java 21
-* REST controllers and service layer
-* Pagination and sorting logic
-* Maven and Checkstyle
-* Project in active development
-
----
-
-### **Filmorate**
-
-Spring Boot REST service for managing movies, users, and ratings.
-
-**Key points:**
-
-* REST API design
-* Bean Validation (`@Valid`)
-* In-memory data storage
-* Unit and integration testing with JUnit 5
-* Project in active development
+🔗 https://github.com/alonazrnko/taskflow
 
 ---
 
-## Education
+### **Catsgram** — Social Media Backend *(in progress)*
+Spring Boot REST backend for managing posts and user interactions.
+
+- Spring Boot 3 and Java 21  
+- REST controllers and service layer  
+- Pagination and sorting  
+- Maven, Checkstyle  
+
+🔗 https://github.com/alonazrnko/catsgram
+
+---
+
+### **Filmorate** — Movie Recommendation Service *(in progress)*
+Backend service for managing movies, users, and ratings.
+
+- REST API design  
+- Bean Validation (`@Valid`)  
+- In-memory data storage  
+- Unit and integration testing with JUnit 5  
+
+🔗 https://github.com/alonazrnko/filmorate
+
+---
+
+## 🎓 Education
 
 **Taras Shevchenko National University of Kyiv**  
 Bachelor’s Degree in Biophysics  
@@ -71,13 +75,14 @@ Java Backend Developer – Project-based training
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-* Backend development with Spring Boot
-* Designing clean and testable REST APIs
-* Expanding projects with persistence layers and databases
-* Preparing for backend internship and real-world product development
+- Backend development with Spring Boot  
+- Designing clean and testable REST APIs  
+- Expanding projects with persistence layers and databases  
+- Preparing for backend internships and junior backend roles  
 
 ---
 
-📫 GitHub: [https://github.com/alonazrnko](https://github.com/alonazrnko)
+📫 **Contact**  
+GitHub: https://github.com/alonazrnko
