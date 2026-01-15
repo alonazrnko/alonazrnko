@@ -66,7 +66,7 @@ Backend service for managing movies, users, and ratings.
 
 ## 🎓 Education
 
-**Taras Shevchenko National University of Kyiv**  
+**Taras Shevchenko National University**  
 Bachelor’s Degree in Biophysics  
 Department of Biophysics and Medical Informatics  
 
@@ -86,3 +86,4 @@ Java Backend Developer – Project-based training
 
 📫 **Contact**  
 GitHub: https://github.com/alonazrnko
+Email: alonazrnko@gmail.com
