@@ -1,15 +1,15 @@
 # Alyona Nazarenko  
-👩‍💻 **Java Backend Developer**
+👩‍💻 **Java Backend Developer (Junior)**  
 
 ![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-brightgreen?logo=springboot)
 ![REST](https://img.shields.io/badge/REST-API-lightgrey)
-![Maven](https://img.shields.io/badge/Maven-build-orange?logo=apachemaven)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-containerization-blue?logo=docker)
 ![JUnit5](https://img.shields.io/badge/JUnit-5-success)
 
-Backend-focused Java developer with a strong academic background in biophysics and medical informatics.  
-Experienced in building clean, testable backend applications using modern Java and Spring Boot.  
-Currently preparing for backend internship roles and real-world product development.
+Junior Java Backend Developer with hands-on experience in backend application development and team-based projects.  
+Focused on building reliable backend services and growing in product-oriented engineering environments.
 
 ---
 
@@ -17,48 +17,54 @@ Currently preparing for backend internship roles and real-world product developm
 
 - **Java 21**
 - **Spring Boot 3**
-- RESTful APIs
+- RESTful API design
+- PostgreSQL, H2
+- SQL, JDBC
+- Docker, Docker Compose
 - Maven
 - Lombok
-- Bean Validation
 - JUnit 5
-- Git / GitHub
+- Postman (manual API testing)
+- Git / GitHub (branches, pull requests)
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### **TaskFlow** — Task Management System *(completed)*
-Java-based backend application implementing task lifecycle and business logic.
+### **TaskFlow** — Task Management System *(completed)*  
+Backend application for managing tasks based on Kanban principles.
 
-- Core Java and OOP principles  
-- Task lifecycle and status management  
-- Clean separation of responsibilities  
-- File-based persistence and HTTP API  
+- Implemented core task management logic with task lifecycle and status transitions
+- Focused on backend business logic and data modeling
+- Applied object-oriented design and clean code principles
+- Implemented file-based persistence and HTTP API
 
 🔗 https://github.com/alonazrnko/taskflow
 
 ---
 
-### **Catsgram** — Social Media Backend *(in progress)*
-Spring Boot REST backend for managing posts and user interactions.
+### **Catsgram** — Social Media Backend *(in progress)*  
+Backend service for managing users and posts in a social media–style application.
 
-- Spring Boot 3 and Java 21  
-- REST controllers and service layer  
-- Pagination and sorting  
-- Maven, Checkstyle  
+- Developed REST APIs using Spring Boot
+- Integrated PostgreSQL for persistent data storage
+- Containerized the application using Docker
+- Tested REST endpoints using Postman
 
 🔗 https://github.com/alonazrnko/catsgram
 
 ---
 
-### **Filmorate** — Movie Recommendation Service *(in progress)*
-Backend service for managing movies, users, and ratings.
+### **Filmorate** — Movie Social Platform Backend *(in progress)*  
+Backend service for a movie-focused social platform.
 
-- REST API design  
-- Bean Validation (`@Valid`)  
-- In-memory data storage  
-- Unit and integration testing with JUnit 5  
+- Developed REST APIs for managing users, movies, and user interactions
+- Implemented social features including friendships, likes, and activity feed
+- Built logic for ratings, reviews, search, and filtering
+- Designed service-layer business logic with relational data handling
+- Covered core functionality with unit and integration tests using JUnit 5
+- Tested REST endpoints using Postman
+- Collaborated in a team using GitHub pull requests
 
 🔗 https://github.com/alonazrnko/filmorate
 
@@ -71,19 +77,12 @@ Bachelor’s Degree in Biophysics
 Department of Biophysics and Medical Informatics  
 
 **Yandex Practicum**  
-Java Backend Developer – Project-based training  
-
----
-
-## 🎯 Current Focus
-
-- Backend development with Spring Boot  
-- Designing clean and testable REST APIs  
-- Expanding projects with persistence layers and databases  
-- Preparing for backend internships and junior backend roles  
+Java Backend Developer — project-based professional training
 
 ---
 
 📫 **Contact**  
-GitHub: https://github.com/alonazrnko
+GitHub: https://github.com/alonazrnko  
+Email: alonazrnko@gmail.com
+GitHub: https://github.com/alonazrnko  
 Email: alonazrnko@gmail.com
