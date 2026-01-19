@@ -84,5 +84,3 @@ Java Backend Developer — project-based professional training
 📫 **Contact**  
 GitHub: https://github.com/alonazrnko  
 Email: alonazrnko@gmail.com
-GitHub: https://github.com/alonazrnko  
-Email: alonazrnko@gmail.com
