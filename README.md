@@ -1,86 +1,98 @@
-# Alyona Nazarenko  
-👩‍💻 **Java Backend Developer (Junior)**  
+# Alyona Nazarenko
+### Java Backend Developer
 
-![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-brightgreen?logo=springboot)
-![REST](https://img.shields.io/badge/REST-API-lightgrey)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-containerization-blue?logo=docker)
-![JUnit5](https://img.shields.io/badge/JUnit-5-success)
-
-Junior Java Backend Developer with hands-on experience in backend application development and team-based projects.  
-Focused on building reliable backend services and growing in product-oriented engineering environments.
+Backend developer with a strong foundation in Java and Spring Boot ecosystem.
+Experienced in building RESTful services, working with relational databases,
+and designing multi-module microservice applications.
+Passionate about clean architecture, testable code, and continuous growth.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Java 21**
-- **Spring Boot 3**
-- RESTful API design
-- PostgreSQL, H2
-- SQL, JDBC
-- Docker, Docker Compose
-- Maven
-- Lombok
-- JUnit 5
-- Postman (manual API testing)
-- Git / GitHub (branches, pull requests)
+**Languages & Frameworks**
+Java 21 · Spring Boot 3 · Spring MVC · Spring Data JPA · Spring JDBC · Spring Validation
+
+**Databases**
+PostgreSQL · H2 · Hibernate · SQL · JDBC
+
+**Tools & Infrastructure**
+Docker · Docker Compose · Maven · Git · GitHub · Postman · Lombok
+
+**Testing**
+JUnit 5 · Mockito · Integration Tests · Postman Collections
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-### **TaskFlow** — Task Management System *(completed)*  
-Backend application for managing tasks based on Kanban principles.
+### [ExploreWithMe](https://github.com/alonazrnko/java-explore-with-me) — Event Discovery Platform
+Two-service microservice backend for an event discovery and social planning platform.
+- Three-tier REST API: public / private / admin
+- Dedicated statistics microservice with its own database and HTTP client library
+- Event lifecycle management with state machine logic
+- Additional feature: comment system with admin moderation
+- Comprehensive test coverage: unit, mock, integration and Postman tests
 
-- Implemented core task management logic with task lifecycle and status transitions
-- Focused on backend business logic and data modeling
-- Applied object-oriented design and clean code principles
-- Implemented file-based persistence and HTTP API
-
-🔗 https://github.com/alonazrnko/taskflow
-
----
-
-### **Catsgram** — Social Media Backend *(in progress)*  
-Backend service for managing users and posts in a social media–style application.
-
-- Developed REST APIs using Spring Boot
-- Integrated PostgreSQL for persistent data storage
-- Containerized the application using Docker
-- Tested REST endpoints using Postman
-
-🔗 https://github.com/alonazrnko/catsgram
+`Java 21` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Docker` `Microservices` `JUnit 5` `Mockito`
 
 ---
 
-### **Filmorate** — Movie Social Platform Backend *(in progress)*  
-Backend service for a movie-focused social platform.
+### [ShareIt](https://github.com/alonazrnko/java-shareit) — Item Sharing Platform
+Two-module microservice backend for a peer-to-peer item sharing platform.
+- Gateway module for input validation and routing via Feign Client
+- Server module with full business logic and JPA-based persistence
+- Booking system with availability management and status transitions
+- Item request flow for items not yet on the platform
+- Quality gates: JaCoCo (90% line coverage), SpotBugs, Checkstyle
 
-- Developed REST APIs for managing users, movies, and user interactions
-- Implemented social features including friendships, likes, and activity feed
-- Built logic for ratings, reviews, search, and filtering
-- Designed service-layer business logic with relational data handling
-- Covered core functionality with unit and integration tests using JUnit 5
-- Tested REST endpoints using Postman
-- Collaborated in a team using GitHub pull requests
+`Java 21` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Docker` `Feign Client` `JaCoCo`
 
-🔗 https://github.com/alonazrnko/filmorate
+---
+
+### [Filmorate](https://github.com/alonazrnko/filmorate) — Movie Social Platform
+Backend for a movie-focused social platform with rich social features.
+- REST API for movies, users, reviews, likes, and activity feed
+- Friendship system, event feed, and movie popularity ranking
+- Full repository-level integration tests for all core entities
+- HTTP traffic logging via Logbook
+
+`Java 21` `Spring Boot` `Spring JDBC` `H2` `JUnit 5` `Logbook`
+
+---
+
+### [Catsgram](https://github.com/alonazrnko/catsgram) — Social Media Backend
+REST API backend for a social media application with image support.
+- Layered architecture: controller / service / DAO
+- PostgreSQL persistence with DAO pattern
+- Dockerized with Docker Compose
+
+`Java 21` `Spring Boot` `PostgreSQL` `Docker` `Lombok`
+
+---
+
+### [TaskFlow](https://github.com/alonazrnko/taskflow) — Java Task Manager
+Task management application built in plain Java without frameworks.
+- In-memory and file-backed storage strategies
+- Built-in HTTP server with REST endpoints
+- Custom history manager with O(1) operations
+- Epics and subtasks with parent-child relationships
+
+`Java 11` `OOP` `JUnit 5` `HTTP Server`
 
 ---
 
 ## 🎓 Education
 
-**Taras Shevchenko National University**  
-Bachelor’s Degree in Biophysics  
-Department of Biophysics and Medical Informatics  
+**Taras Shevchenko National University of Kyiv**
+Bachelor's Degree · Biophysics and Medical Informatics
 
-**Yandex Practicum**  
-Java Backend Developer — project-based professional training
+**Java Backend Development Bootcamp**
+Project-based professional training · 2025–2026
 
 ---
 
-📫 **Contact**  
-GitHub: https://github.com/alonazrnko  
+## 📫 Contacts
+
+GitHub: [github.com/alonazrnko](https://github.com/alonazrnko)
 Email: alonazrnko@gmail.com
